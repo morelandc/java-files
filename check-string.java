@@ -4,7 +4,7 @@ public class Main {
 
         Boolean isExpectedOutput;
 
-        if(input1.equals("Hello and welcome!") {
+        if(input1.equals("Hello and welcome!")) {
           isExpectedOutput = true;
         }else {
           isExpectedOutput = false;
