@@ -11,6 +11,7 @@ public class Main {
         }
 
         System.out.println(input1);
+        System.out.println(isExpectedOutput);
             
     }
 }
